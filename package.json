@@ -53,7 +53,7 @@
     "neo4j-driver": "^1.5.2",
     "next": "^7.0.2",
     "next-redux-wrapper": "^2.1.0",
-    "nodemailer": "^4.4.1",
+    "nodemailer": "^6.4.16",
     "passport": "^0.4.0",
     "passport-jwt": "^4.0.0",
     "passport-local": "^1.0.0",
